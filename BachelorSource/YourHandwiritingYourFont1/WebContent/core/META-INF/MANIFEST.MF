@@ -1,0 +1,250 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.0
+Created-By: 1.6.0_24-b07 (Sun Microsystems Inc.)
+
+Name: processing/core/PApplet$RegisteredMethods.class
+SHA-256-Digest: SyqIFAuFkR1a+Zt85+UPS0X99C6ws8iUE1ZtgBwxXWw=
+SHA1-Digest: m+c6znoi+DdP5HEW++TVyTNt07A=
+
+Name: processing/core/PShapeSVG$LinearGradientPaint$LinearGradientCont
+ ext.class
+SHA-256-Digest: OG1X7vA7ZZALmFsaMaQ5avC4MW1gJGyoaGu3iydjIoo=
+SHA1-Digest: WefncLvqZXi/KHAT9VK91Qffeo4=
+
+Name: processing/xml/XMLEntityResolver.class
+SHA-256-Digest: aIkbGv89BX/YP0tPY9w1NRso3qa+j/wt6TMjyrrfq1A=
+SHA1-Digest: 8pPx6oNGzeSh2DHLLk+pJne23Gs=
+
+Name: processing/core/PApplet$3.class
+SHA-256-Digest: LjxUlMzv5fz9D5wSRr+cKdyQbnnKMtka29/d+tkgg/A=
+SHA1-Digest: j0TZvPzprWPjKgi7EQt0KrgZQnw=
+
+Name: processing/core/PApplet$7.class
+SHA-256-Digest: JCSyyUmWaA38KGbF0gmXd0H6lSP0dXnMTuauYS0OUZQ=
+SHA1-Digest: hfqld2DAs04gj8fJLkTQgYgDCto=
+
+Name: processing/xml/XMLValidationException.class
+SHA-256-Digest: X+k2AMH0e+JeZ8lVXiVjsJr8pX6aevm3kELfbCeCoB8=
+SHA1-Digest: wkNV+JvKGacH8W7F7woG+jc5izg=
+
+Name: processing/core/PShapeSVG$Gradient.class
+SHA-256-Digest: tfsnV45zCtao9cMVPppviIM1gXZE+w9y7wK2+agvWIY=
+SHA1-Digest: lx+89IyzsRMLwVdZXau4WMAVKV4=
+
+Name: processing/core/PShapeSVG$FontFace.class
+SHA-256-Digest: 4b/Vsl1t847nzGvub9g1d1xXLABtKNzCySiXXw942Rw=
+SHA1-Digest: JAQkNfcgn0/cGYgRH8RdoknxVTI=
+
+Name: processing/core/PApplet.class
+SHA-256-Digest: zxTfYiEdpUsf4exjsWhqeAJgjhsnzNmjWgEXoei4KaU=
+SHA1-Digest: BvIlI7G3pqbhl8MaEjFU1IldN3s=
+
+Name: processing/core/PVector.class
+SHA-256-Digest: 6Smot/k3kTFm74/58lrPxCtBxo2VEslf9htEChnXs5I=
+SHA1-Digest: naoUgPRGl2lg0arqdYktVBaj+Xw=
+
+Name: processing/core/PImage.class
+SHA-256-Digest: SPORDn/K1wVUs/jE1kL975tNSMFlbngrOXimjt7jHlc=
+SHA1-Digest: esWrVtzvSN1sDnp6XxPha8lCLRo=
+
+Name: processing/xml/XMLValidator.class
+SHA-256-Digest: Cnz6vYn/fsIXqw6DHeOhkYUG5r8tb72coY97Uy2CmNo=
+SHA1-Digest: O0Y/Z/1kKmQPtUKhCflKTsZ3kI0=
+
+Name: processing/core/PSmoothTriangle.class
+SHA-256-Digest: 0ZMYCuH1OX9rRs6hnPuyuMwGzqcJipN7eVcr1Uf50cU=
+SHA1-Digest: p0zYifohYGsiLQWKjgng2SrWc8U=
+
+Name: processing/core/PApplet$AsyncImageLoader.class
+SHA-256-Digest: aJsiRP2+T/lg12T3Y79B6Nsn/38/R6barR/Mu51S0P8=
+SHA1-Digest: h+QSlCyL9PAuT2Olfy7wIzri4oM=
+
+Name: processing/core/PShapeSVG$RadialGradientPaint.class
+SHA-256-Digest: iZ20ngp/D09vMqt4PcDolWBommh3oiYNBgOu/YLB90I=
+SHA1-Digest: zB8vpUjC3rvmfK0y6Am2gxX4NDk=
+
+Name: processing/xml/XMLUtil.class
+SHA-256-Digest: 4+h4Zwj+0KNffGmqIuj13NdMufZorjaQW2cUYIdJDTg=
+SHA1-Digest: jhE+Icoff7JkNFG1uLdrFdNJAcc=
+
+Name: processing/core/PGraphicsJava2D.class
+SHA-256-Digest: rQahavbooumRwbm/a92ryW29ZC/D2jx5sD7A/sw6C2I=
+SHA1-Digest: EBQaHLZx0/Fow4vFBVrQnIS+Alc=
+
+Name: processing/core/PApplet$6.class
+SHA-256-Digest: hxgw46mTKvth/eQ6nH8aDdip3IN5HoRsN04hFeNU3rM=
+SHA1-Digest: SmS6IhGp8n1h/btPiZe1wMKtneM=
+
+Name: processing/core/PConstants.class
+SHA-256-Digest: sn9zDwxjiH38n56SIxfI7AkQU4bu69C3OryBxcX7e8Y=
+SHA1-Digest: th76zdg1K3Q3S73rXAf19XJeAZA=
+
+Name: processing/xml/XMLParseException.class
+SHA-256-Digest: bFNJplhlF5//YmtkbmyCqKlD73PYakyOsp+VjIhvVZU=
+SHA1-Digest: 7D8hBE+7rUAillubMme9uDW6u5k=
+
+Name: processing/xml/StdXMLReader$1.class
+SHA-256-Digest: uAVgFoQ0/Xd+djG3iOirPQ5sieIYiWgqkyEQFchV5RM=
+SHA1-Digest: KQN2SK/05TexZ5dZBcBfn7dpOjQ=
+
+Name: processing/core/PLine.class
+SHA-256-Digest: jxTBdTzey6sVXqtMvIfwbArRZ9TcAWvPkZFR35wPN5s=
+SHA1-Digest: H8ctS/g/dxDMYePLOTmdzyE+bFw=
+
+Name: processing/xml/XMLElement.class
+SHA-256-Digest: js2kozBiSv+cGGfk3GDCTY/+wRnxW48jXHB/tppZQ5I=
+SHA1-Digest: YZpDXjlDp8/dcwbGATeytp8OpNE=
+
+Name: processing/core/PFont.class
+SHA-256-Digest: x2ioCc2fis924iFfy/WcXQpt1BVXNtrNDbj7SB/oNt8=
+SHA1-Digest: JM/1dHfJ0rJVzjvaK/0L+zu24NA=
+
+Name: processing/xml/PIReader.class
+SHA-256-Digest: 40czmRQLH1tjo+aVUGr0SD4uQToRm2mYmWRCXPrQdZ8=
+SHA1-Digest: kafsi6BaHoHpq1cWwzdgTgUmmWE=
+
+Name: processing/core/PGraphics.class
+SHA-256-Digest: t4rRixQR/rn4n/iQKqjmNLvmbl9excTpY6XjwoZ957Y=
+SHA1-Digest: qACfJRQDbMiNE9ZR9PoN8FGF7I8=
+
+Name: processing/core/PShapeSVG$LinearGradient.class
+SHA-256-Digest: 9VHW/J5YGO/g669Y/rsIp7gwqXQgsa9122d5Vtiaawg=
+SHA1-Digest: Wu53wvVouvYBfUvyAEVG0epwhKQ=
+
+Name: processing/core/PShapeSVG.class
+SHA-256-Digest: tgYiplARJJXzEoDzZYkYJLinSJoZqEzl2GwQYRs/xU0=
+SHA1-Digest: 8oyT9uhr2UvCRZHqtBmyuuU6WkY=
+
+Name: processing/core/PApplet$9.class
+SHA-256-Digest: IB++zC6HpRj7A//fMQa5Z2D/IfgNROvAIIS6z2OEx0c=
+SHA1-Digest: u1/yIhUYFq1MkESCiCz4PXDW+Eo=
+
+Name: processing/core/PApplet$5.class
+SHA-256-Digest: SvOa2WsEfMAVcINgiPmRXeotyZ7uyYzlb1r9hQnnIhE=
+SHA1-Digest: +mAqx+PTi09rF3muPTOmNBr0bc8=
+
+Name: processing/core/PGraphics3D.class
+SHA-256-Digest: p9blTOgZCd5H/fav9ni2bUFsMZsQffxqK8osgTNevww=
+SHA1-Digest: YIzgrfaUQJfszdeqGqNoarr7oyo=
+
+Name: processing/core/PShape.class
+SHA-256-Digest: 7/kw+9U4zwS3Bi6SrjpDgHTlxpk82epR5XzoiC4ZwKQ=
+SHA1-Digest: 84YFtmQJadw251p8Gu7Ys0g/270=
+
+Name: processing/core/PGraphics2D.class
+SHA-256-Digest: mo1eqEeR/7p/k+0Cv+9Hq/AFY/9l8n2QKmr7ghNPvZM=
+SHA1-Digest: csXEAVTFE1nQCwkUp9sYXSJq/iA=
+
+Name: processing/core/PMatrix.class
+SHA-256-Digest: 0t+C2Kdog8K3mshxRtorid7kfVE3Y66hApUGr+F6wpE=
+SHA1-Digest: lf3Kp0e762DbXm3aTcP3iABrOK8=
+
+Name: processing/core/PMatrix2D.class
+SHA-256-Digest: Z2PbZ/AOdEff8fUNpuEV+mLDL+8rqUFGWeLFBgFj+hg=
+SHA1-Digest: p67mcHdfGZQctLix80lTSK76t3U=
+
+Name: processing/core/PMatrix3D.class
+SHA-256-Digest: +RcSQwQ4FIdPFhic1eKHnACz8gZhyVTbK6jZmVb0uKA=
+SHA1-Digest: 3DYuc93mgCPNxtOfnPgDxR0QpUY=
+
+Name: processing/core/PApplet$8.class
+SHA-256-Digest: ZUWtRTLEkh9HS/FvfPhI4b9A+KM2SWHM1NvDdbdxAB0=
+SHA1-Digest: B3RDdKGLYOjVJw5G+L3K5O4P71w=
+
+Name: processing/core/PApplet$2.class
+SHA-256-Digest: /UCXHVVHcCVdTPzO9SJdoLilCIere0JQ1P9gcqDRbUk=
+SHA1-Digest: XvHXoG59mxFrsy7roU0U/qwoA9Q=
+
+Name: processing/xml/StdXMLReader$StackedReader.class
+SHA-256-Digest: PlvkKa7Oedh/kz5Ts4e80o+YDjWISpThboY8KLLpEgE=
+SHA1-Digest: zrM6X0vGh4lErg1w/BkgRxlzvYI=
+
+Name: processing/xml/CDATAReader.class
+SHA-256-Digest: Cnhr4KsmjOrE3nRdDorYr/Ht/PjoTJgnEQw99kR9BH0=
+SHA1-Digest: 4ZMc5eagMvZzYHztKVPG+vDwPpI=
+
+Name: processing/core/PGraphicsJava2D$ImageCache.class
+SHA-256-Digest: FyVRhAYrItpiDQdle9UmgPewAP6wDku1nNlLsDglklE=
+SHA1-Digest: enKfwn4gGyVQ97+cD4AWK3rjhHc=
+
+Name: processing/xml/StdXMLReader.class
+SHA-256-Digest: yEConlUAGGJpz4BSouW+TjF3HiMr0cNWkTUwUkK0EN8=
+SHA1-Digest: 8SZkQidwTpfIsAv4uCpLQU/8rwo=
+
+Name: processing/core/PTriangle.class
+SHA-256-Digest: gp6owyZCEaEl7rng1PUKgqqVauCLbHjeKJqeUeXaYPU=
+SHA1-Digest: rHlpYP5c7ud01FsGquZ/GfjnmyM=
+
+Name: processing/core/PShapeSVG$FontGlyph.class
+SHA-256-Digest: AJl2e94CC/016NVmn1qoZfykQ8SamwUBwj5NTV+bGpI=
+SHA1-Digest: e0oaJg5FpfbaWFl/T7r4gpY2EVk=
+
+Name: processing/core/PShapeSVG$LinearGradientPaint.class
+SHA-256-Digest: CEtxUMHE1HJBS1diw41i40Dk+ARotNbF5xLJofn+eHE=
+SHA1-Digest: /wRl3yDJqRXr+3QbU8XJaL6lX8M=
+
+Name: processing/core/PShapeSVG$RadialGradientPaint$RadialGradientCont
+ ext.class
+SHA-256-Digest: 0mh1DdRWFAcOs20k7jLj/1LYjbD4MkR1nK+PawALwwk=
+SHA1-Digest: lca0b08MfpEPTTRKvOvG4wwDI2c=
+
+Name: processing/core/PApplet$RendererChangeException.class
+SHA-256-Digest: cG2JvgAmzlyd2l5QoXI55Vrrri3Oae76RJGeJqJrr14=
+SHA1-Digest: 1Qv+JnGiZPOWQ5M9e4r0b/5rkn0=
+
+Name: processing/xml/StdXMLParser.class
+SHA-256-Digest: oXnargC9Vd74XcNunk0rlNhTMvKbJV2rwu46IN4/Huo=
+SHA1-Digest: 45q66MY7FkQatt4yS1DhPTW//2s=
+
+Name: processing/core/PFont$Glyph.class
+SHA-256-Digest: l5YrKs74Bp+rIsiEpMXwweyHR+hlW1IFudhNCXHCU2I=
+SHA1-Digest: ADQGwJDoug+5qwAge1INaV2Zo+0=
+
+Name: processing/xml/ContentReader.class
+SHA-256-Digest: JkZ8fd397+28bTsy8x8seHto3BccMzM4IKT9UJKA/s4=
+SHA1-Digest: x+LXEgwGN76ei1Lkpzpispl04iM=
+
+Name: processing/core/PShapeSVG$Font.class
+SHA-256-Digest: IGyPJ2tbsFqdQN9KB5zxQTVse45wxm5UDPDU/SqDq94=
+SHA1-Digest: 3PSNvMiTbi/7k1sDo4fcQuNXrYo=
+
+Name: processing/core/PPolygon.class
+SHA-256-Digest: Hg6PZwznaayo9LSeaOAgzfq+lYVs7y6G/Z0iZ9Ppt44=
+SHA1-Digest: pDYSK8CueDeyyLKAEYVjVpnnM/A=
+
+Name: processing/core/PApplet$10.class
+SHA-256-Digest: RrUrlamj4ozFRCMw0AFRqvoZfCyHekCVHfsBWkol7Zk=
+SHA1-Digest: fJyUEglOHJj6iKrOMdriwEA2kcM=
+
+Name: processing/xml/XMLAttribute.class
+SHA-256-Digest: tJ+zmqL2hk8lGYJWd8q5edzAPDElfXQeewpXhbo0tJk=
+SHA1-Digest: J+UBFESUwuQOgDCuWTDIufsZ9NI=
+
+Name: processing/core/PApplet$1.class
+SHA-256-Digest: qjqnldRgBPpbOD7is74wj9FUlVtYdM1uxGEyotDvqGc=
+SHA1-Digest: OIm+ldqAEHxUIGksTznQk1wA3Hg=
+
+Name: processing/xml/StdXMLBuilder.class
+SHA-256-Digest: CrLQVkJxBF0ssSWo2wIdzpNdSaKNfLna29U8uQCjzFM=
+SHA1-Digest: zfOMSwSLWtpJ7q1PUEnkszbM9mo=
+
+Name: processing/core/PApplet$4.class
+SHA-256-Digest: z3rjKW42CQ68QWUf9CnrcUZ/8wJfP0IGijI1WQOR2v8=
+SHA1-Digest: 5OW89AY2wdJOnMkxcSVBmCyvNlU=
+
+Name: processing/xml/XMLException.class
+SHA-256-Digest: TUyoFhkgGiS9C2gAC+xNbEsVKWdD7HzXe9JxKqdibwg=
+SHA1-Digest: 8SnAQNcMKHQ5CRgAOeX4821Dn8A=
+
+Name: processing/xml/XMLWriter.class
+SHA-256-Digest: uu23/dkgFZ84D4EI4hAaWvgpSlMK4wkGeD1HROSeDrM=
+SHA1-Digest: UNcXuTJJUKAV7HVfLjxobt9kHoY=
+
+Name: processing/core/PStyle.class
+SHA-256-Digest: zzZ80QEpACkpTE8Q1sQTPgj7cieVxMud0ErbbucQ0IM=
+SHA1-Digest: F5pbkwVv74JyLzErHbT5/H8Wao8=
+
+Name: processing/core/PShapeSVG$RadialGradient.class
+SHA-256-Digest: 0lgXZdy3DKpGXMaxA6/BbUvcxpY3TSsnc4SimMOT5Ok=
+SHA1-Digest: +PfNecENFgedQOFH2QTLS+9S8To=
+
